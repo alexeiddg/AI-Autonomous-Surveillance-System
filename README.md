@@ -17,7 +17,12 @@ A first look at the implementation of the project in collaboration with Nvidia O
 ## Agents’ Code & Computer Vision’s Code
 The progress in these areas can be viewed directly in this repository, within the respective folders:
 
-- `Agents' Code`
-- `Computer Vision's Code`
+- `Agent`
+- `Computer Vision`
 
 Feel free to explore and provide feedback!
+
+## Documentation
+Detailed documentation and workflow can be found at the following link to a Google Drive document:
+
+[Documentation & Workflow - Google Drive](https://docs.google.com/document/d/1CG0gDy-nMS0_nWzAFrbZyQxMkf7I-CueW6UiskvcWE8/edit?usp=sharing)
