@@ -17,7 +17,7 @@ A first look at the implementation of the project in collaboration with Nvidia O
 ## Agents’ Code & Computer Vision’s Code
 The progress in these areas can be viewed directly in this repository, within the respective folders:
 
-- `Agent`
+- `Agents`
 - `Computer Vision`
 
 Feel free to explore and provide feedback!
