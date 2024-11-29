@@ -29,7 +29,7 @@ Detailed documentation and workflow can be found at the following link to a Goog
 
 ## Demonstration
 
-A demonstration video showcasing the functionality of the simulation is available on YouTube: 
+Demonstration videos showcasing the functionality of the simulation, are available on YouTube: 
 
 [YouTube - Environment Demonstration](https://youtu.be/7nxhV7HlYU4)
 
