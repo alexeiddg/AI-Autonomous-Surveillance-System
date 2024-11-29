@@ -22,8 +22,6 @@ The final codes for these services can be found directly in the project reposito
 - `Agents`
 - `Computer Vision`
 
-Feel free to explore and provide feedback!
-
 ### Documentation
 Detailed documentation and workflow can be found at the following link to a Google Drive document:
 
@@ -75,9 +73,10 @@ To configure the development and execution environment for the project, follow t
 1.  **Clone the Repository:**
 
     -   If you haven't already, clone this repository to your local machine. Using:
-    
-        `git clone https://github.com/alexeiddg/AI-Autonomous-Surveillance-System.git`
-        
+      
+        ```
+        git clone https://github.com/alexeiddg/AI-Autonomous-Surveillance-System.git
+        ```
         ... in the rute of your preference.
     
 2.  **Create a Virtual Environment (Optional but Recommended):**
@@ -93,12 +92,41 @@ To configure the development and execution environment for the project, follow t
     -   Ensure you are in the main directory of the cloned repository, where the `requirements.txt` file is located.
     -   Run the following command to install all necessary libraries:
 
-        `pip install -r requirements.txt`
-
+        ```        
+        pip install -r requirements.txt`
+        ```
 4.  **Verify the Installation:**
 
     -   After installation, you can verify that all libraries have been installed correctly by running `pip list`.
-        
+
+### 4\. Optional Setup: Nvidia Omniverse and Localhost Application
+
+1\.  **Download and Install Nvidia Omniverse:**
+
+    -   Visit the [Nvidia Omniverse website](https://www.nvidia.com/en-us/omniverse/) and download the Omniverse Launcher.
+
+    -   Run the installer and follow the instructions to set up the Omniverse platform.
+
+2\.  **Install Omniverse Kit:**
+
+    -   Open the Omniverse Launcher.
+
+    -   Navigate to the **Exchange** section.
+
+    -   Search for the "Omniverse Kit" and install it. This is a toolkit for building advanced applications which is going to be used as our environment to vizualize the Omniverse Import Project.
+
+-   **Set Up the Nucleus Server:**
+
+    -   Open the Omniverse Launcher and go to the **Nucleus** tab.
+
+    -   In the file explorer type interface, navigate to **Omniverse**.
+
+    -   Click on **Create Local Server**.
+
+    -   Follow the on-screen instructions to finish configuring the localhost server.
+
+    -   This directory is where you will import the project.
+
 ## Run the Project
 
 ### Instructions
@@ -166,8 +194,9 @@ To configure the development and execution environment for the project, follow t
 
     -   Open the extracted project folder within the application.
 
-    -   Follow the instructions included in the README or documentation within the project to run the demo simulation.
-
 4.  **Explore the Demo:**
 
     -   Use the provided controls or features to interact with the simulation and explore its functionalities.
+
+--------
+Feel free to explore and provide feedback!
