@@ -9,7 +9,7 @@ This repository contains the project carried out for the Training Unit "Modeling
 ### Unity
 The graphics and simulation section project with Unity can be found in the following OneDrive link to a compressed folder:
 
-[Unity Project Preview - OneDrive](https://tecmx-my.sharepoint.com/:u:/g/personal/a01637405_tec_mx/EYM0AAal919Oou-auaHc_5gB4rXpkf3mjAO46vPfBtEdyw?e=87H8Qu)
+[Unity Project Preview - OneDrive](https://1drv.ms/u/s!AvmYIrw8iAyFg-hadxWmzHF4os6X-Q?e=H59c2z)
 
 ### Omniverse
 An import from Unity and Demo look at the implementation of the project in conjunction with Nvidia Omniverse can be found at the following OneDrive link to a compressed folder:
