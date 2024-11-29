@@ -154,7 +154,7 @@ To configure the development and execution environment for the project, follow t
     -   Run the following commands to start the Python servers for the Agent and Computer Vision:
 
         ```
-        python "Computer Vision/cv_server.py"
+        python "Computer Vision/cv_server/cv_server.py"
         python Agents/agents.py
         ```
 
