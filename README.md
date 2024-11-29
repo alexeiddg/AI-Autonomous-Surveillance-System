@@ -31,7 +31,9 @@ Detailed documentation and workflow can be found at the following link to a Goog
 
 A demonstration video showcasing the functionality of the simulation is available on YouTube: 
 
-[YouTube - Simulation Demonstration](https://youtu.be/7nxhV7HlYU4)
+[YouTube - Environment Demonstration](https://youtu.be/7nxhV7HlYU4)
+
+[YouTube - Simulation Demonstration](https://www.youtube.com/watch?v=oBWbBL6GgEc)
 
 ## Environment Setup
 
