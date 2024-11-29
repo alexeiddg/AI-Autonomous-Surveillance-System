@@ -7,17 +7,17 @@
 This repository contains the project carried out for the Training Unit "Modeling of Multi-Agent Systems with Computer Graphics", which is part of the second course evidence. Below is an overview of the available materials and their locations:
 
 ### Unity
-A preview of the project in the graphics and simulation section using Unity can be accessed through the following OneDrive link to a compressed folder:
+The graphics and simulation section project with Unity can be found in the following OneDrive link to a compressed folder:
 
 [Unity Project Preview - OneDrive](https://tecmx-my.sharepoint.com/:u:/g/personal/a01637405_tec_mx/EYM0AAal919Oou-auaHc_5gB4rXpkf3mjAO46vPfBtEdyw?e=87H8Qu)
 
 ### Omniverse
-A first look at the implementation of the project in collaboration with Nvidia Omniverse is available at the following OneDrive link to a compressed folder:
+An import from Unity and Demo look at the implementation of the project in conjunction with Nvidia Omniverse can be found at the following OneDrive link to a compressed folder:
 
 [Omniverse Project Preview - OneDrive](https://tecmx-my.sharepoint.com/:u:/g/personal/a01068505_tec_mx/EeCkjnGrlytJhm7z5zn7U7wBMsA5pjX_fyZUAW6pdd4-hw?e=iuQkb9)
 
 ### Agents’ Code & Computer Vision’s Code
-The progress in these areas can be viewed directly in this repository, within the respective folders:
+The final codes for these services can be found directly in the project repository (previously attached). Likewise, the link can be found here again:
 
 - `Agents`
 - `Computer Vision`
@@ -28,6 +28,12 @@ Feel free to explore and provide feedback!
 Detailed documentation and workflow can be found at the following link to a Google Drive document:
 
 [Documentation & Workflow - Google Drive](https://docs.google.com/document/d/1CG0gDy-nMS0_nWzAFrbZyQxMkf7I-CueW6UiskvcWE8/edit?usp=sharing)
+
+## Demonstration
+
+A demonstration video showcasing the functionality of the simulation is available on YouTube: 
+
+[YouTube - Simulation Demonstration](https://youtu.be/7nxhV7HlYU4)
 
 ## Environment Setup
 
@@ -142,8 +148,26 @@ To configure the development and execution environment for the project, follow t
 
         -   Press `L` to return to automatic mode.
 
-## Demonstration
+### NVIDIA Omniverse Demo
 
-A demonstration video showcasing the functionality of the simulation is available on YouTube: 
+1.  **Download the Omniverse Demo Project:**
 
-[YouTube - Simulation Demonstration](https://youtu.be/7nxhV7HlYU4)
+    -   Download the compressed Omniverse project folder from the OneDrive link provided in the **Available Materials** section of this README.
+
+2.  **Extract and Set Up the Project:**
+
+    -   Extract the downloaded folder to your preferred location.
+
+    -   Follow the Omniverse installation guide provided in the project folder to set up the environment.
+
+3.  **Run the Omniverse Demo:**
+
+    -   Launch the Omniverse application.
+
+    -   Open the extracted project folder within the application.
+
+    -   Follow the instructions included in the README or documentation within the project to run the demo simulation.
+
+4.  **Explore the Demo:**
+
+    -   Use the provided controls or features to interact with the simulation and explore its functionalities.
