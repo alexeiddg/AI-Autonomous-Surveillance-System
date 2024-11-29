@@ -12,7 +12,7 @@ The graphics and simulation section project with Unity can be found in the follo
 [Unity Project Preview - OneDrive](https://1drv.ms/u/s!AvmYIrw8iAyFg-hadxWmzHF4os6X-Q?e=H59c2z)
 
 ### Omniverse
-An import from Unity and Demo look at the implementation of the project in conjunction with Nvidia Omniverse can be found at the following OneDrive link to a compressed folder:
+An import from Unity and Demo look of the implementation of the project in conjunction with Nvidia Omniverse can be found at the following OneDrive link to a compressed folder:
 
 [Omniverse Project Preview - OneDrive](https://tecmx-my.sharepoint.com/:u:/g/personal/a01068505_tec_mx/EeCkjnGrlytJhm7z5zn7U7wBMsA5pjX_fyZUAW6pdd4-hw?e=iuQkb9)
 
