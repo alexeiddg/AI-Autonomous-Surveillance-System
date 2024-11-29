@@ -17,7 +17,7 @@ An import from Unity and Demo look of the implementation of the project in conju
 [Omniverse Project Preview - OneDrive](https://tecmx-my.sharepoint.com/:u:/g/personal/a01068505_tec_mx/EeCkjnGrlytJhm7z5zn7U7wBMsA5pjX_fyZUAW6pdd4-hw?e=iuQkb9)
 
 ### Agents’ Code & Computer Vision’s Code
-The final codes for these services can be found directly in the project repository (previously attached). Likewise, the link can be found here again:
+The final codes for these services can be found directly in this repository.
 
 - `Agents`
 - `Computer Vision`
