@@ -68,7 +68,11 @@ To configure the development and execution environment for the project, follow t
 
 1.  **Clone the Repository:**
 
-    -   If you haven't already, clone this repository to your local machine.
+    -   If you haven't already, clone this repository to your local machine. Using:
+    
+        `git clone https://github.com/alexeiddg/AI-Autonomous-Surveillance-System.git`
+        
+        ... in the rute of your preference.
     
 2.  **Create a Virtual Environment (Optional but Recommended):**
 
@@ -91,4 +95,55 @@ To configure the development and execution environment for the project, follow t
         
 ## Run the Project
 
-###
+### Instructions
+
+1.  **Download the Unity Project:**
+
+    -   Download the compressed Unity project folder from the OneDrive link provided in the **Available Materials** section of this README.
+
+2.  **Add the Project to Unity Hub:**
+
+    -   Extract the downloaded folder to your preferred location.
+
+    -   Open Unity Hub.
+
+    -   Click on the **Add** button.
+
+    -   Navigate to the extracted folder and select it to add the project to Unity Hub.
+
+3.  **Start Python Servers:**
+
+    -   Open a terminal in the root directory of the cloned repository.
+
+    -   Run the following commands to start the Python servers for the Agent and Computer Vision:
+
+        ```
+        python "Computer Vision/cv_server.py"
+        python Agents/agents.py
+        ```
+
+4.  **Run the Unity Simulation:**
+
+    -   Ensure both servers are running.
+
+    -   In Unity Hub, open the project and press the **Play** button to start the simulation.
+
+5.  **Simulation Controls:**
+
+    -   **Switch Camera/View:** Press the `Space` key.
+
+    -   **Drone Controls:**
+
+        -   Press `R` to switch to manual mode.
+
+            -   Use `W`, `A`, `S`, `D` keys to move.
+
+            -   Use `Shift` + `Space` to ascend or descend.
+
+        -   Press `L` to return to automatic mode.
+
+## Demonstration
+
+A demonstration video showcasing the functionality of the simulation is available on YouTube: 
+
+[YouTube - Simulation Demonstration](https://youtu.be/7nxhV7HlYU4)
