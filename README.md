@@ -2,6 +2,15 @@
 
 **Date:** 11/29/2024
 
+## Demonstration
+
+Demonstration videos showcasing the functionality of the simulation, are available on YouTube: 
+
+[YouTube - Environment Demonstration](https://youtu.be/7nxhV7HlYU4)
+
+[YouTube - Simulation Demonstration](https://www.youtube.com/watch?v=oBWbBL6GgEc)
+
+
 ## Available Material
 
 This repository contains the project carried out for the Training Unit "Modeling of Multi-Agent Systems with Computer Graphics", which is part of the second course evidence. Below is an overview of the available materials and their locations:
@@ -26,14 +35,6 @@ Detailed documentation and workflow can be found at the following link to a Goog
 An import from Unity and Demo look of the implementation of the project in conjunction with Nvidia Omniverse can be found at the following OneDrive link to a compressed folder:
 
 [Omniverse Project Preview - OneDrive](https://tecmx-my.sharepoint.com/:u:/g/personal/a01068505_tec_mx/EeCkjnGrlytJhm7z5zn7U7wBMsA5pjX_fyZUAW6pdd4-hw?e=iuQkb9)
-
-## Demonstration
-
-Demonstration videos showcasing the functionality of the simulation, are available on YouTube: 
-
-[YouTube - Environment Demonstration](https://youtu.be/7nxhV7HlYU4)
-
-[YouTube - Simulation Demonstration](https://www.youtube.com/watch?v=oBWbBL6GgEc)
 
 ## Environment Setup
 
