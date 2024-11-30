@@ -155,7 +155,7 @@ To configure the development and execution environment for the project, follow t
 
         ```
         python "Computer Vision/cv_server/cv_server.py"
-        python Agents/agents.py
+        python Agents/communication_server.py
         ```
 
 4.  **Run the Unity Simulation:**
